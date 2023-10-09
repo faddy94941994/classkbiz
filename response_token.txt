@@ -1,0 +1,20 @@
+HTTP/1.1 200 OK
+Set-Cookie: AlteonP=PqJNcMMAAACB998kqCDSPwAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAABEpaEgohYDEAAAAAAAAAAAAAAAA$; Path=/
+transfer-encoding: chunked
+vary: Origin
+vary: Access-Control-Request-Method
+vary: Access-Control-Request-Headers
+expires: 0
+cache-control: no-cache, no-store, max-age=0, must-revalidate
+x-xss-protection: 1; mode=block
+pragma: no-cache
+x-frame-options: DENY
+date: Mon, 02 Oct 2023 08:29:24 GMT
+x-content-type-options: nosniff
+strict-transport-security: max-age=31536000 ; includeSubDomains
+content-type: application/json; charset=UTF-8
+x-session-token: 0c3ae58af5118ec3afbede900ce1e01d77c4ab53e68a051b8953ca9ed1fee43c1dc2bc3e9c0c46ae7ca0faaaa8bcd1f5a6a1b8a62f25f090a56babe87a3a3dbaea84170c2734fd7f7c78ccbe48c0913e225465d05812b512b0662daa32cbeb646dae2bfc7d2d33cb24dc67cf622f85592949b98b552bc9d6fec7b276b8e807f8111076e2fada208d76aa099c15371b2d2848a4df5e48259f4789ca6181114f72e1c0c9e6a6182d407194f2ac80685ff53ebab2e8cad692fd434918440c94c1b9aa190dc91b714a716bab714310ccbcfa06cdbc7c340dadb9649f9b6e8decfc6bfce8f71b7bd49248113afef0fd38afabd56459aa3f0f61ba4382d7ce6c1a296af3486023259cd66ec6c465119e34c6bd7c8713336dce20359c367c20f4263656f83c8045e65f090f0c925b500d718ef6e34f7e240a151ddc6d930bf06b814042aebbc83f73add1acc740fa0c9cd7b5ee3d592cdefe346aef5cebabbfc6d98c5d
+referrer-policy: no-referrer
+set-cookie: 76aa0fb54084497165ebe81fd14b509b=fbc7eec75ebc68a31740465e6282764d; path=/; HttpOnly; Secure; SameSite=None
+
+{"clientRefID":null,"serviceRefID":"ATC20231002152924006352","status":"S","timestamp":"2023-10-02T15:29:24.234+07:00","data":{"rowCount":0,"language":"EN","username":"Imm1910Aim","userProfiles":[{"ibId":"e792406bf693d3018592b6347b163d5c","ibIdGA":"0b4e463c1d8e35c74068c0f55edbfd7b","adsIbId":"bjbcjfaeijfagc","roleList":[{"roleId":"2","roleName":"Admin"},{"roleId":"4","roleName":"Authorizer"},{"roleId":"3","roleName":"Maker"},{"roleId":"5","roleName":"Viewer"}],"companyId":"90201b83d5309d9c2b6a14490643aeeb","companyNameTH":"กัญญาภัค","companyNameEN":"KANYAPAK","lastNameCompanyTH":"อาชาศรัย","lastNameCompanyEN":"ARCHASRAI","firstNameTH":"กัญญาภัค","lastNameTH":"อาชาศรัย","firstNameEN":"KANYAPAK","lastNameEN":"ARCHASRAI","custType":"IX","img":null,"blacklist":"0","titleId":"3","showRoleFlag":"N"}],"secType":"3","secTypeFlag":"","googleTagManagerId":"GTM-KP7ZJLZ","recaptchaSiteKey":"6Lecz88aAAAAADMoaLKBfDC7s9faxdiaYWiCYL8w","lastLoginDatetime":"2023-10-02 15:19:15.000"}}

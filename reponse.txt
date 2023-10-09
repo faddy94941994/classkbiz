@@ -1,0 +1,1 @@
+{"clientRefID":null,"serviceRefID":"ACS20231002154756435564","status":"S","timestamp":"2023-10-02T15:47:57.541+07:00","data":{"rowCount":0,"accountSummaryList":[],"totalList":0,"availableBalanceSum":"0"}}

@@ -1,0 +1,487 @@
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<!DOCTYPE html>
+<html lang="th" id="loginContents">
+    <head>
+        <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+        <meta http-equiv="Pragma" content="no-cache" />
+        <meta http-equiv="Cache-Control" content="no-cache, no-store" />
+        <meta http-equiv="Expires" content="0" />
+        <meta http-equiv="X-UA-Compatible" content="IE=edge" />
+        <meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1" />
+        <link rel="canonical" href="https://online.kasikornbankgroup.com/kbiz/">
+        
+
+        <title>
+            
+                เข้าสู่ระบบ K BIZ - ธนาคารกสิกรไทย
+            
+            
+        </title>
+        
+            <meta name="description" content="ยินดีต้อนรับเข้าสู่ระบบ K BIZ รวมทุกบริการไว้ที่เดียว  K BIZ, K-Cyber Trade และ K-Cyber Invest">
+            <meta name="keywords" content="เข้าสู่ระบบ K BIZ, K-Cyber Trade, K-Cyber Invest">
+            <meta property="og:title" content="เข้าสู่ระบบ K BIZ - ธนาคารกสิกรไทย" />
+            <meta property="og:description" content="เข้าสู่ระบบ K BIZ - ธนาคารกสิกรไทย" />
+        
+        
+
+        <script type="text/javascript">
+            var locale = "th";
+            if (isIE() && isIE() < 10) {
+                if (locale === "en") {
+                    alert("Support Internet Explorer Version 10 and above.");
+                } else {
+                    alert("รองรับ Internet Explorer เวอร์ชั่น 10 หรือมากกว่า");
+                }
+            }
+            function isIE() {
+                var myNav = navigator.userAgent.toLowerCase();
+                return (myNav.indexOf('msie') !== -1) ? parseInt(myNav.split('msie')[1]) : false;
+            }
+        </script>
+
+        <link rel="shortcut icon" type="image/x-icon" href="/kbiz/images/favicon/new-design/favicon.ico">
+        <link rel="apple-touch-icon" sizes="57x57" href="/kbiz/images/favicon/new-design/apple-icon-57x57.png">
+        <link rel="apple-touch-icon" sizes="60x60" href="/kbiz/images/favicon/new-design/apple-icon-60x60.png">
+        <link rel="apple-touch-icon" sizes="72x72" href="/kbiz/images/favicon/new-design/apple-icon-72x72.png">
+        <link rel="apple-touch-icon" sizes="76x76" href="/kbiz/images/favicon/new-design/apple-icon-76x76.png">
+        <link rel="apple-touch-icon" sizes="114x114" href="/kbiz/images/favicon/new-design/apple-icon-114x114.png">
+        <link rel="apple-touch-icon" sizes="120x120" href="/kbiz/images/favicon/new-design/apple-icon-120x120.png">
+        <link rel="apple-touch-icon" sizes="144x144" href="/kbiz/images/favicon/new-design/apple-icon-144x144.png">
+        <link rel="apple-touch-icon" sizes="152x152" href="/kbiz/images/favicon/new-design/apple-icon-152x152.png">
+        <link rel="apple-touch-icon" sizes="180x180" href="/kbiz/images/favicon/new-design/apple-icon-180x180.png">
+        <link rel="icon" type="image/png" sizes="192x192" href="/kbiz/images/favicon/new-design/android-icon-192x192.png">
+        <link rel="icon" type="image/png" sizes="32x32" href="/kbiz/images/favicon/new-design/favicon-32x32.png">
+        <link rel="icon" type="image/png" sizes="96x96" href="/kbiz/images/favicon/new-design/favicon-96x96.png">
+        <link rel="icon" type="image/png" sizes="16x16" href="/kbiz/images/favicon/new-design/favicon-16x16.png">
+        <link rel="manifest" href="/kbiz/images/favicon/new-design/manifest.json">
+        <meta name="msapplication-TileColor" content="#ffffff">
+        <meta name="msapplication-TileImage" content="/kbiz/images/favicon/new-design/ms-icon-144x144.png">
+        <meta name="theme-color" content="#ffffff">
+        <meta name="apple-mobile-web-app-title" content="">
+
+        <link rel="stylesheet" href="/kbiz/css/new-design/bootstrap.min.css">
+        <link rel="stylesheet" href="/kbiz/css/new-design/font.css">
+        <link rel="stylesheet" href="/kbiz/css/new-design/iconfont.css">
+        <link rel="stylesheet" href="/kbiz/css/new-design/theme.css">
+        <link rel="stylesheet" href="/kbiz/css/new-design/theme-rwd.css">
+        <link rel="stylesheet" href="/kbiz/css/new-design/custom.css" />
+        <!--<link href="css/style_eyepass.css" rel="stylesheet" type="text/css" />-->
+
+        <!--[if lte IE 9]>
+        <link rel="stylesheet" href="/kbiz/css/new-design/lte-ie9.css">
+        <![endif]-->
+
+        <!--[if lt IE 9]>
+        <script src="/kbiz/scripts/new-design/html5shiv.min.js"></script>
+        <script src="/kbiz/scripts/new-design/respond.min.js"></script>
+        <![endif]-->
+
+        <script type="text/javascript" src="/kbiz/scripts/new-design/modernizr-custom.js"></script>
+        <script type="text/javascript" src="/kbiz/scripts/jquery.js"></script>
+        <script type="text/javascript" src="/kbiz/scripts/jquery.easing.1.3.min.js"></script>
+        <script type="text/javascript" src="/kbiz/scripts/validator.js?v=15543894594"></script>
+        <script type="text/javascript" src="/kbiz/scripts/CapsLock.js?v=15543894594"></script>
+        <script type="text/javascript" src="/kbiz/scripts/pa-libs/pa-tools.js?v=15543894594"></script>
+        <script type="text/javascript" src="/kbiz/scripts/pa-libs/pa-libs.js?v=15543894594"></script>
+
+        <script type="text/javascript" src="/kbiz/scripts/new-design/matchMedia.min.js"></script>
+        <script type="text/javascript" src="/kbiz/scripts/new-design/matchMedia.addListener.min.js"></script>
+        <script type="text/javascript" src="/kbiz/scripts/new-design/enquire.min.js"></script>
+        <script type="text/javascript" src="/kbiz/scripts/new-design/fixto.min.js"></script>
+        <script type="text/javascript" src="/kbiz/scripts/new-design/jquery.magnific-popup.min.js"></script>
+        <script type="text/javascript" src="/kbiz/scripts/new-design/msdropdown.js"></script>
+        <script type="text/javascript" src="/kbiz/scripts/new-design/select2.js"></script>
+        <script type="text/javascript" src="/kbiz/scripts/new-design/slick.min.js"></script>
+        <script type="text/javascript" src="/kbiz/scripts/new-design/theme.js"></script>
+        <!--<script src="https://www.google.com/recaptcha/api.js?render=6LcMrQUaAAAAAB9MT-gfLDgld4gTUQjaE2gMxQrZ"></script>-->
+        <script type="text/javascript" src="scripts/PasswordEye.js"></script>
+
+        <script type="text/javascript">
+            $(document).keypress(function (e) {
+                if (e.keyCode == 13) {
+                    doAction('authenticate');
+                }
+            });
+
+            CapsLock.addListener(function (status) {
+                document.getElementById('capsMsg').style.display = (status ? 'block' : 'none');
+            });
+
+            $(document).ready(function () {
+                $('#userName').prop('autocomplete', 'off');
+                $("#userName").attr("placeholder", "รหัสผู้ใช้งาน");
+                $('#txtpassword').prop('autocomplete', 'off');
+                $('#txtpassword').attr("placeholder", "รหัสผ่าน");
+                $('#userName').focus();
+                $('form').attr('autocomplete', 'off');
+
+                localStorage.removeItem("JSESSIONID");
+                sessionStorage.removeItem('android');
+
+                if ($('#errorText').html() === '') {
+                    $('#errorText').hide();
+                } else {
+                    $('#errorText').show();
+                    $('#loginTimeOut').hide();
+                    GA_login_fail();
+                }
+
+                $('#loginBtn').click(function () {
+                    doAction('authenticate');
+                });
+
+                var locale = $("#locale").val();
+                if (locale == null || locale == "") {
+                    $('#locale').val("th");
+                    locale = "th";
+                }
+
+                $('.lang-select').val(locale).trigger('change');
+                $('.lang-select').change(function () {
+                    doChangeLocale($(this).val());
+                });
+
+                $('.keypress_number').keypress(function (event) {
+                    if (event.which != null || (event.charCode != null || event.keyCode != null)) {
+                        event.which = event.charCode != null ? event.charCode : event.keyCode;
+                        if (event.which >= 48 && event.which <= 57 || event.which == 8 || event.which == 0) {
+                            return true;
+                        }
+                    }
+                    return false;
+                });
+
+                $('#loginTimeOut').hide();
+                $('#userName').keyup(function () {
+                    var userName = $("#userName").val();
+                    var password = $("#txtpassword").val();
+                    if ((userName == null || userName == "") && (password == null || password == "")) {
+                        clearInterval(timer);
+                    } else {
+                        $('#loginTimeOut').hide();
+                        clearInterval(timer);
+                        countDown(300, function () {
+                            $('#errorText').hide();
+                            $('#loginTimeOut').show();
+                            document.getElementById('userName').value = "";
+                            document.getElementById('txtpassword').value = "";
+                        });
+                    }
+                });
+
+                $('#txtpassword').keyup(function () {
+                    var userName = $("#userName").val();
+                    var password = $("#txtpassword").val();
+                    if ((userName == null || userName == "") && (password == null || password == "")) {
+                        clearInterval(timer);
+                    } else {
+                        $('#loginTimeOut').hide();
+                        clearInterval(timer);
+                        countDown(300, function () {
+                            $('#errorText').hide();
+                            $('#loginTimeOut').show();
+                            document.getElementById('userName').value = "";
+                            document.getElementById('txtpassword').value = "";
+                        });
+                    }
+                });
+
+                pajsfile("/kbiz", "footer.js?v=15543894594", "js");
+
+            });
+
+            function doAction(cmd) {
+                if (validate()) {
+                    $('#cmd').val(cmd);
+                    $('#loginForm').submit();
+                }
+            }
+
+            function validate() {
+                var validator = new Validator('th');
+                validator.setErrorPanel($('#errorText')[0]);
+                validator.setSuccessPanel($('#errorText')[0]);
+                isNull($('#userName').val(), $('#txtpassword').val());
+                validator.addField($('#userName')[0], 'รหัสผู้ใช้งาน', {required: true});
+                validator.addField($('#txtpassword')[0], 'รหัสผ่าน', {required: true});
+                validator.validateField();
+                if (!validator.getDelegator().valid) {
+                    validator.displayError();
+                    $('#errorText').show();
+                    $('#loginTimeOut').hide();
+                    GA_login_fail('Please enter Password');
+                    return false;
+                }
+
+                $.post("analytic.jsp", {cmd: 'c', paObjects: encode64(encryptedElement())});
+                $('#errorText').hide();
+
+                return true;
+            }
+
+            function validateEmail(value) {
+                var emailRegEx = /^[A-Z0-9_-]+(?:\.[A-Z0-9_-]+)*@(?:[A-Z0-9](?:[A-Z0-9-]*[A-Z0-9])?\.)+[A-Z0-9](?:[A-Z0-9-]*[A-Z0-9])$/i;
+                return !isValidEmail(value, emailRegEx);
+            }
+
+            function isValidEmail(value, regexp) {
+                if (value != "" && value != null) {
+                    var myRe = regexp.exec(value);
+                    if (!myRe) {
+                        return false;
+                    } else {
+                        return true;
+                    }
+                }
+                return true;
+            }
+
+            function doChangeLocale(locale) {
+                window.location = "/kbiz/login.jsp?lang=" + locale;
+            }
+
+            var timer;
+            function countDown(i, callback) {
+                timer = setInterval(function () {
+                    i-- || (clearInterval(timer), callback());
+                }, 1000);
+            }
+
+            function GA_login_fail(errorMsg) {
+                var errorEventAction = 'user_error';
+                if (!errorMsg) {
+                    errorMsg = `Invalid User ID or Password`;
+                    errorEventAction = 'user_error'
+                }
+                if (errorMsg) {
+                    window.dataLayer.push({
+                        'event': 'track_event',
+                        'event_category': 'user_login',
+                        'event_action': errorEventAction,
+                        'event_label': errorMsg
+                    });
+                }
+            }
+            $(document).on('click', "#pwdEye", function () {
+                passwordEyeToggleLogin($(this));
+                unmask();
+            });
+
+            $(document).on('keyup change', "#txtpassword", function () {
+                passwordEyeMakingLogin($(this));
+                mask();
+            });
+
+
+        </script>
+
+        <style>
+            .password {
+                font-family: text-security-disc;
+                -webkit-text-security: disc;
+            }
+            .unmask {
+
+            }
+            @font-face{
+                font-family: text-security-disc;
+                src: url("/kbiz/css/text-security-disc.woff");
+            }
+        </style>
+        <script>
+            function unmask() {
+                var pwd = document.getElementById('txtpassword');
+                if (pwd.className == "password")
+                    pwd.className = "unmask";
+                else
+                    pwd.className = "password";
+            }
+            function mask() {
+                var pwd = document.getElementById('txtpassword');
+                pwd.className = "password";
+            }
+        </script>
+        <!-- Google Tag Manager -->
+        <script>
+            (function (w, d, s, l, i) {
+                w[l] = w[l] || [];
+                w[l].push({'gtm.start': new Date().getTime(), event: 'gtm.js'});
+                var f = d.getElementsByTagName(s)[0], j = d.createElement(s), dl = l != 'dataLayer' ? '&l=' + l : '';
+                j.async = true;
+                j.src = 'https://www.googletagmanager.com/gtm.js?id=' + i + dl;
+                f.parentNode.insertBefore(j, f);
+            })(window, document, 'script', 'dataLayer', 'GTM-KP7ZJLZ');
+        </script>
+        <!-- End Google Tag Manager -->
+    </head>
+
+    <body class="no-scroll">
+        <!-- Google Tag Manager (noscript) -->
+        <noscript>
+            <iframe src="//www.googletagmanager.com/ns.html?id=GTM-KP7ZJLZ" height="0" width="0" style="display:none;visibility:hidden"></iframe>
+        </noscript>
+        <!-- End Google Tag Manager (noscript) -->
+        <div id="menu_line" style="display:none" class="line_d5becdba0453f1f684853970eb92f2d2e7d020ce679cc34f611175beb2afae42"></div>
+        <header id="header" class="header hide line_c2NyaXB0LGZvcm0saW5wdXQsYSxpbWcsaWZyYW1lLGhpZGRlbixvYmplY3Q="></header>
+        <div>
+            <main class="main">
+                <section class="section sc-full-no-lock sc-full-bg no-scrollbar sc-login-bg">
+                    <div class="sc-inner">
+                        <div class="header-full">
+                            <div class="menu-left">
+                                <i class="ic ic-question-circle"></i>
+                                <div class="change-lang">
+                                    <div class="input input-clear">
+                                        <div class="select a-center">
+                                            <select data-placeholder="TH" class="select2 lang-select">
+                                                <option value="th" selected>TH</option>
+                                                <option value="en">EN</option>
+                                            </select>
+                                        </div>
+                                    </div>
+                                </div>
+                            </div>
+                            <div class="menu-right">
+                                
+                                    <a class="link-white">ไม่มีบัญชีผู้ใช้?</a>
+                                    <a href="https://www.kasikornbank.com/th/kbiz/apply/pages/index.aspx" class="btn outline-green">สมัครบริการ</a>
+                                
+                                
+                            </div>
+                        </div>
+                        <div id="login-container" class="container line_I3xLLU9ubGluZXxzZWN1cmUua2FzaWtvcm5iYW5rZ3JvdXAuY29tfHd3dy5rYXNpa29ybmJhbmsu
+Y29tfHd3dy5nb29nbGUtYW5hbHl0aWNzLmNvbQ==">
+                            <div class="sc-ct-inner fixed-lock">
+                                <div id="login-content" class="ct-bg-transparent line_d3JpdGV8Y3JlYXRlRWxlbWVudA==">
+                                    <div id="form-fill" class="sc-form-full form-lg line_aW1nLHNjcmlwdCxpZnJhbWUsYQ==">
+                                        <div class="login-logo">
+                                            <a href="http://www.kasikornbank.com/th">
+                                                <img 
+                                                    src="/kbiz/images/new-design/logo-login.png" 
+                                                    alt="K BIZ Online Banking, เข้าสู่ระบบ K BIZ, K-Cyber Trade และ K-Cyber Invest"
+                                                    >
+                                            </a>
+                                        </div>
+                                    </div>  
+                                    
+                                        
+                                    
+                                      
+                                    <div class="sc-form-full form-lg">                
+                                        <div id="action" class="line_YWpheDo0LGV2YWw6MiwucGhwOjE=" style="display: none"></div>
+                                        <h1 class="c-white login-title">
+                                            
+                                                บริการด้านการเงิน การลงทุนทางอินเทอร์เน็ตของกสิกรไทยที่รวม 3 บริการไว้ในที่เดียว
+                                            
+                                            
+                                            <br>
+                                            <strong>K BIZ, K-Cyber Trade, K-Cyber Invest</strong>
+                                        </h1>
+                                        <form name="loginActionForm" id="loginForm" method="post" action="/kbiz/login.do" class="form form-login">
+                                            <fieldset class="fieldset">
+                                                <h2 class="login-text body-font">
+                                                    เข้าสู่ระบบ
+                                                    
+                                                    </h2>
+                                                    <div class="fields no-space">
+                                                        <div class="field">
+                                                            <div class="input">
+                                                            <input type="text" name="userName" maxlength="20" value="" id="userName">
+                                                        </div>
+                                                    </div>
+                                                    <div class="field">
+                                                        <div class="input">
+                                                            <input type="text" name="password" maxlength="30" value="" id="txtpassword" class="password">
+                                                            <span class="icon-eye-password">
+                                                                <svg id="pwdEye" xmlns="http://www.w3.org/2000/svg" width="15px" height="15px" fill="none" w viewBox="0 0 24 24" stroke-width="2" stroke="currentColor" aria-hidden="true" class="svg eye-close eye-vector">
+                                                                <path stroke-linecap="round" stroke-linejoin="round" d="M13.875 18.825A10.05 10.05 0 0112 19c-4.478 0-8.268-2.943-9.543-7a9.97 9.97 0 011.563-3.029m5.858.908a3 3 0 114.243 4.243M9.878 9.878l4.242 4.242M9.88 9.88l-3.29-3.29m7.532 7.532l3.29 3.29M3 3l3.59 3.59m0 0A9.953 9.953 0 0112 5c4.478 0 8.268 2.943 9.543 7a10.025 10.025 0 01-4.132 5.411m0 0L21 21"></path>                     
+                                                                </svg>
+                                                            </span>
+                                                        </div>
+                                                    </div>
+                                                </div>
+                                                <div>
+                                                    <p class="validated" id="errorText">รหัสผู้ใช้งาน/รหัสผ่านไม่ถูกต้อง</p>
+                                                    <p class="validated" id="loginTimeOut">ท่านไม่ได้ทำรายการในเวลาที่กำหนด กรุณาใส่ข้อมูลเพื่อเข้าใช้งานใหม่อีกครั้งรหัสผู้ใช้งาน/รหัสผ่านไม่ถูกต้อง</p>
+                                                </div>
+                                            </fieldset>
+                                            <div class="action a-center">
+                                                <a id="loginBtn" class="btn fixwidthfull">
+                                                    เข้าสู่ระบบ
+                                                    
+                                                    </a>
+                                                    <a href="/kbiz/onlineUnlock.do?cmd=init" class="link">
+                                                    
+                                                        ปลดล็อกรหัสผู้ใช้งาน
+                                                    
+                                                    
+                                                </a>
+                                            </div>
+                                            <input type="hidden" name="tokenId" id="tokenId" value="15543894594"/>
+                                            <input type="hidden" name="cmd" value="authenticate" id="cmd">
+                                            <input type="hidden" name="locale" value="th" id="locale">
+                                            <input type="hidden" name="custType" value="" id="custType">
+                                            <input type="hidden" name="captcha" value="" id="captcha">
+                                            <input type="hidden" name="app" value="0">
+                                        </form>
+                                        <p class="policy">
+                                            
+                                                ธนาคารไม่มีนโยบายสอบถามข้อมูลส่วนตัวของลูกค้าผ่านคลิกลิงก์อีเมล หรือ SMS
+                                            
+                                            
+                                        </p>
+
+                                        <div class="text-link margin-low-width">
+                                            <a href="https://www.kasikornbank.com/th/kbiz/pages/index.aspx" target="_blank">
+                                                
+                                                    อ่านรายละเอียดเพิ่มเติมและวิธีการใช้งาน K BIZ
+                                                
+                                                
+                                                <i class="ic ic-chevron-right" style="margin-left: 0;"></i>
+                                            </a>
+                                        </div>
+
+                                        <div class="footer-short-height">
+                                            <div class="image">
+                                                <img src="/kbiz/images/new-design/logo-footer.png" alt="">
+                                            </div>
+                                        </div> 
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+                        <div class="footer-full">
+                            <div id="slogan" class="image line_dG9rZW5JZHx1c2VyTmFtZXxwYXNzd29yZHxjbWR8bG9jYWxlfGN1c3RUeXBlfGFwcHxjYXB0Y2hh
+fGZpcnN0bmFtZXxsYXN0bmFtZXxlbWFpbHxtb2JpbGVOb3xzdWJtaXRCdG4=">
+                                <img src="/kbiz/images/new-design/logo-footer.png" />
+                            </div>
+                        </div>
+                    </div>
+                </section>
+            </main>
+        </div>
+    </body>
+</html>
